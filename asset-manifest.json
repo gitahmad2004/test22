@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/test22.git/static/css/main.0c5ed20d.css",
+    "main.js": "/test22.git/static/js/main.e3ea75b5.js",
+    "static/js/453.bea66239.chunk.js": "/test22.git/static/js/453.bea66239.chunk.js",
+    "static/media/slide23.jpg": "/test22.git/static/media/slide23.848bc3cf9744886d4732.jpg",
+    "static/media/slick.svg": "/test22.git/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/test22.git/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/test22.git/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/test22.git/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/test22.git/index.html",
+    "main.0c5ed20d.css.map": "/test22.git/static/css/main.0c5ed20d.css.map",
+    "main.e3ea75b5.js.map": "/test22.git/static/js/main.e3ea75b5.js.map",
+    "453.bea66239.chunk.js.map": "/test22.git/static/js/453.bea66239.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c5ed20d.css",
+    "static/js/main.e3ea75b5.js"
+  ]
+}
